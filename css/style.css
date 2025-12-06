@@ -460,7 +460,7 @@ button:hover {
     align-items: center;
     justify-content: center;
     color: var(--white);
-    background: url('images/Circle.svg') center/contain no-repeat;
+    background: url('../images/Circle.svg') center/contain no-repeat;
 }
 
 .step__label {
@@ -942,7 +942,7 @@ button:hover {
     right: 0;
     bottom: 0;
     height: 448px;
-    background-image: url('images/Background.jpg');
+    background-image: url('../images/Background.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
